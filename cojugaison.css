@@ -1,0 +1,30 @@
+body {
+    font-family: Georgia;
+    background-color: blueviolet;
+    font-size: 15px;
+}
+#pge {
+    width: 800px;
+    height: 250px;
+    margin: 30px auto;
+    padding-top: 20%;
+
+}
+
+#rsp {
+    display: block;
+    width: 80%;
+    margin: 0px auto;
+    font-family: italic;
+}
+p {
+    margin: 3px;
+}
+fieldset{
+    height: 50%;
+    weight: 50%;
+    background-color: cornflowerblue;
+}
+fieldset content{
+  padding-top: 5px;
+}
